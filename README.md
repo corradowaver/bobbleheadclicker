@@ -34,3 +34,4 @@
 ## Пример работы 
 ![Изображения проекта 1](Clicker1.jpg)
 ![Изображения проекта 2](Clicker2.jpg)
+![image](https://user-images.githubusercontent.com/49598870/135501288-0f8afb98-e4b7-44eb-95f7-fb604a4a2b18.png)
